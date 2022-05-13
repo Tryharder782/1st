@@ -1,0 +1,9 @@
+form{
+	max-width: 500px;
+}
+.user-exists{
+	display: none;
+}
+.active{
+	display: block;
+}
